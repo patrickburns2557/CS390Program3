@@ -1,5 +1,5 @@
 # CS390Program3
-Program to take intput of filenames from stdin, and test if they are text files or binary files.
+Program to take input of filenames from stdin, and test if they are text files or binary files.
 
 If they are text files, it will test if it is a Windows text file or a Unix text file.
 
